@@ -1,14 +1,16 @@
 # Librerias Matrices Numeros Complejos
 
 Librerias para operar matrices de numeros complejos
+
+
 Para clonar la libreria es nesesaria tener instalado git en su computadora y en la carpeta donde quiere instalar la libreria click derecho y click en git bash Here y poner el siguiente comando `git clone https://github.com/Daniel19902/Libreria.git`
 se encontrara con la libreriaMatrices y TestLibreriaMatrices
 * LibreriaMatrices podra observar el codigo y la logica que manejan las librerias
 * TestLibreriaMatrices podra ejecutar diferentes test de las librerias
 
-Para ejecutar las prubas puede hacerlo desde un idel como pycharm, visual o puede dirijirse a la consola y poner python TestLibreriaMatrices.py claro esta la consola debe esta configurada para poder ejecutar archivos 
+Para ejecutar las prubas puede hacerlo desde un idel como pycharm, visual o puede dirijirse a la consola y poner python TestLibreriaMatrices.py claro esta la consola debe esta configurada para poder ejecutar archivos. 
 
-La libreria opera matrices complejas y a continuacion esta la explicacion de capa operancion disonible para su debido uso.
+La libreria opera matrices complejas y a continuacion esta la explicacion de capa operancion disponible para su debido uso, con esto podra usar las librerias leyendo los parametros de entrada que esta proporciona.
 
 ## Adición de vectores complejos.
 
