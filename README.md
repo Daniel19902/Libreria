@@ -1,7 +1,7 @@
 # Librerias Matrices Numeros Complejos
 
 Librerias para operar matrices de numeros complejos
-Para clonar la libreria es nesesaria tener instalado git en su computadora y en la carpeta donde quiere instalar la libreria click derecho y click en git bash Here y poner el siguiente comando `git clone`
+Para clonar la libreria es nesesaria tener instalado git en su computadora y en la carpeta donde quiere instalar la libreria click derecho y click en git bash Here y poner el siguiente comando `git clone https://github.com/Daniel19902/Libreria.git`
 se encontrara con la libreriaMatrices y TestLibreriaMatrices
 * LibreriaMatrices podra observar el codigo y la logica que manejan las librerias
 * TestLibreriaMatrices podra ejecutar diferentes test de las librerias
